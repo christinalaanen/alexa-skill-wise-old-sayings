@@ -1,0 +1,9 @@
+{"intents": [
+    {"intent": "RandomIntent"},
+	{"intent": "ListIntent"},
+    {"intent": "AMAZON.RepeatIntent"},
+    {"intent": "AMAZON.HelpIntent"},
+    {"intent": "AMAZON.StopIntent"},
+    {"intent": "AMAZON.CancelIntent"}
+  ]
+}

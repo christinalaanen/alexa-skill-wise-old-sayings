@@ -1,0 +1,8 @@
+
+._speechAssets
+._src
+speechAssets/._IntentSchema.json
+speechAssets/._SampleUtterances.txt
+src/._index.js
+src/._package.json
+src/._random.js

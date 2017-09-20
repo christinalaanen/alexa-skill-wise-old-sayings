@@ -1,0 +1,62 @@
+RandomIntent random
+RandomIntent random saying
+RandomIntent random wise saying
+RandomIntent random wise old saying
+RandomIntent random old saying
+RandomIntent give me a wise saying
+RandomIntent give me a saying
+RandomIntent give me a wise old saying
+RandomIntent give me an old saying
+RandomIntent give me wise saying
+RandomIntent give me wise old saying
+RandomIntent give me old saying
+RandomIntent give me saying
+RandomIntent give me wisdom
+RandomIntent wisdom
+RandomIntent wise saying
+RandomIntent old saying
+RandomIntent wise old saying
+RandomIntent saying
+RandomIntent tell me a random saying
+RandomIntent tell me a random wise saying
+RandomIntent tell me a random old saying
+RandomIntent tell me a random wise old saying
+RandomIntent tell me a wise saying
+RandomIntent tell me a saying
+RandomIntent tell me an old saying
+RandomIntent tell me a wise old saying
+RandomIntent tell me wisdom
+RandomIntent tell me random
+RandomIntent tell me random saying
+RandomIntent tell me random wise old saying
+RandomIntent tell me random old saying
+RandomIntent tell me wise saying
+RandomIntent tell me old saying
+RandomIntent tell me a wise saying
+RandomIntent tell me a wise old saying
+RandomIntent tell me an old saying
+RandomIntent tell me saying
+RandomIntent say random saying
+RandomIntent say random wise saying
+RandomIntent say random old saying
+RandomIntent say random wise old saying
+RandomIntent say wise saying
+RandomIntent say wise old saying
+RandomIntent recite random
+RandomIntent recite to me random
+RandomIntent recite wise saying
+RandomIntent recite saying
+RandomIntent recite old saying
+RandomIntent recite wise old saying
+RandomIntent anything
+RandomIntent you pick
+RandomIntent pick for me
+RandomIntent you choose
+RandomIntent what is today's saying
+RandomIntent what's today's saying
+RandomIntent what's today's wise old saying
+RandomIntent what's today's old saying
+RandomIntent what's today's wise saying
+RandomIntent what is today's wise saying
+RandomIntent what is today's wise old saying
+RandomIntent what is today's old saying
